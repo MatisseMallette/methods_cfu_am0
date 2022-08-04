@@ -1,7 +1,7 @@
 # Self Evaluation
 
 - How confident do you feel about your use of built-in Ruby methods?
->In terms of the *concept* of methods, I feel fine. What I don't feel fine with are some of the naming decisions for certain built-in methods. For example, the take method returns some number of elements from the beginning of an Array. HOWEVER, it doesn't actually CHANGE the Array that calls it. To me, `array1.push(array2.take[3])` means you will TAKE 3 elements away from the beginning of 'array2` and PUSH them onto the end of array1.
+>In terms of the *concept* of methods, I feel fine. What I don't feel fine with are some of the naming decisions for certain built-in methods. For example, the take method returns some number of elements from the beginning of an Array. HOWEVER, it doesn't actually CHANGE the Array that calls it. To me, `array1.push(array2.take[3])` means you will TAKE 3 elements away from the beginning of `array2` and PUSH them onto the end of array1.
 
 - How confident do you feel writing simple methods of your own?
 > I feel very confident.
